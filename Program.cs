@@ -10,27 +10,14 @@ namespace ConsoleApp16
     {
         static void var_a()
         {
-            for (int g = 0; g < 16; g++)
+            for (int x = 0; x <= 7; x++)
             {
-                Console.Write($"#");
-            }
-
-            Console.WriteLine();
-            for (int x = 0; x <= 13; x++)
-            {
-                Console.Write($"#");
-                for (int i = 1; i <= 14; i++)
+                for (int i = 1; i <= x; i++)
                 {
                     Console.Write($" ");
                 }
                 Console.Write($"#");
                 Console.WriteLine();
-            }
-
-
-            for (int g = 0; g < 16; g++)
-            {
-                Console.Write($"#");
             }
 
         }
