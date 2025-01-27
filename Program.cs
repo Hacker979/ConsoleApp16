@@ -21,7 +21,10 @@ namespace ConsoleApp16
             }
 
         }
-
+        /// <summary>
+        /// Задание 4. Вывести на экран наклонную линию (\) из 8 символов.
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
 
