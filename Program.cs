@@ -34,7 +34,11 @@ namespace ConsoleApp16
             }
 
         }
-
+        /// <summary>
+        /// Задание 3. Вывести на экран прямоугольник вида □,
+        /// обрамленный символами (например, 16 на 16) и пустой внутри.
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
 
