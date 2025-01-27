@@ -62,7 +62,10 @@ namespace ConsoleApp16
             }
 
         }
-
+        /// <summary>
+        /// Задание 1. Напечатать числа в виде следующей таблицы
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
 
